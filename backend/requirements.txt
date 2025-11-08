@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+sqlalchemy
+pillow
+pytz
+face-recognition
+numpy
+requests
+git+https://github.com/ageitgey/face_recognition_models
+python-jose[cryptography]
+"passlib[bcrypt]"
